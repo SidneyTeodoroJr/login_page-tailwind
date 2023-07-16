@@ -2,7 +2,7 @@
 </br>
 
 <div align="center">
-<a href="" target="_blank">
+<a href="https://sidneyteodorojr.github.io/login_page-tailwind/" target="_blank">
 <img src="https://github.com/SidneyTeodoroJr/login_page-tailwind/blob/main/loginScreen/login_screen.png" alt="gradient">
 </a>
 </div>
@@ -13,7 +13,7 @@
  This is a simple design of a responsive login page, developed using the CSS framework called Tailwind CSS. It provides a basic framework for creating a sleek and modern login page.
 </p>
 </br>
-<h3 align="left"><a href="">Live demo>></a></h3>
+<h3 align="left"><a href="https://sidneyteodorojr.github.io/login_page-tailwind/">Live demo>></a></h3>
 </br>
 
 <h2>Technologies Used</h2>
