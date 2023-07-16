@@ -1,0 +1,22 @@
+/*The @import rule is used to import an external CSS file containing font styles from the Google Fonts API "Poppins" family, specifying styles, weights and loading optimization.*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,500;1,300&display=swap');
+
+/* The selector (.Login-button) styles an HTML element with the class "Login-button" by applying a linear gradient background on the left side, with a color transition from "rebeccapurple" to "dodgerblue". */
+.Login-button {
+    background: linear-gradient(to right, #5234b3,#03a9f4);
+}
+
+/* Hovering over the element triggers a visual effect of a linear gradient in the background, changing color, creating an effect when interacting with the button. */
+.Login-button:hover {
+    background: linear-gradient(to   right, #8138f6ad, #03a8f4ab);
+}
+
+/* Defining the font of the texts */
+h2, p {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Changes color when hovering the mouse over the link */
+a:hover {
+    color: #1445e8;
+}
