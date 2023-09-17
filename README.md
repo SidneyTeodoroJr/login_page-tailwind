@@ -3,7 +3,7 @@
 
 <div align="center">
 <a href="https://sidneyteodorojr.github.io/login_page-tailwind/" target="_blank">
-<img src="https://github.com/SidneyTeodoroJr/login_page-tailwind/blob/main/loginScreen/login_screen.png" alt="gradient">
+<img src="https://github.com/SidneyTeodoroJr/login_page-tailwind/blob/main/loginScreen/login_screen.png" alt="Login Page">
 </a>
 </div>
 </br>
